@@ -74,6 +74,10 @@ cd wuwa-cube-codex-pets
 
 새 캐릭터는 `pets/<펫 ID>/`에 `pet.json`과 `spritesheet.png`를 추가하면 설치 메뉴에 자동으로 나타납니다. 폴더 이름은 매니페스트의 `id`와 같아야 합니다.
 
+## Contributing
+
+새 캐릭터의 에셋 추출, 펫 데이터 제작, README 갱신 및 PR 제출 방법은 [기여 가이드](CONTRIBUTING.md)를 참고하세요. Codex에서는 [새알심 제작 스킬](skills/wuwa-cube-pets/SKILL.md)로 같은 흐름을 진행할 수 있습니다.
+
 ## Source & Rights
 
 이 패키지는 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)의 캐릭터 에셋을 Codex Dots로 언팩하고, 원본 눈·손 동작을 Codex 펫 형식에 맞게 배치했습니다.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wuwa 새알심 펫 제작"
+  short_description: "Wuwa Tappo 에셋으로 새알심 펫 제작부터 README와 PR 준비까지"
+  default_prompt: "$wuwa-cube-pets를 사용해 새 캐릭터의 새알심 펫을 추가하고 WebP 미리보기, 설치 안내, 기여 PR을 준비해 주세요."
