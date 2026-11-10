@@ -21,4 +21,4 @@ mkdir "$target"
 cp "$repo_dir/pet/pet.json" "$repo_dir/pet/spritesheet.png" "$target/"
 
 printf '설치 완료: %s\n' "$target"
-printf 'Codex의 Settings → Pets에서 목록을 새로고침하고 에이메스 큐브을 선택하세요.\n'
+printf 'Codex의 Settings → Pets에서 목록을 새로고침하고 에이메스 새알심을 선택하세요.\n'

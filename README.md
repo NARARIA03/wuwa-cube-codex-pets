@@ -1,20 +1,20 @@
 # Aemeath Cube Codex Pet
 
-Wuwa Tappo의 **에이메스(Aemeath) 큐브**을 Codex에서 사용할 수 있도록 정리한 비공식 커스텀 펫입니다.
+Wuwa Tappo의 **에이메스 새알심(Aemeath Cube)**을 Codex에서 사용할 수 있도록 정리한 비공식 커스텀 펫입니다.
 
 Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡임과 손 동작을 Codex 펫 형식으로 구성했습니다.
 
 ## Design
 
 <p align="center">
-  <img src="docs/design.png" alt="분홍색 머리와 청록색 장식의 에이메스 큐브 디자인" width="192" height="208">
+  <img src="docs/design.png" alt="분홍색 머리와 청록색 장식의 에이메스 새알심 디자인" width="192" height="208">
 </p>
 
 ## Preview
 
 <p align="center">
-  <img src="docs/aemeath-preview-1.gif" alt="에이메스 큐브 애니메이션 미리보기 1" width="288">
-  <img src="docs/aemeath-preview-2.gif" alt="에이메스 큐브 애니메이션 미리보기 2" width="288">
+  <img src="docs/aemeath-preview-1.gif" alt="에이메스 새알심 애니메이션 미리보기 1" width="288">
+  <img src="docs/aemeath-preview-2.gif" alt="에이메스 새알심 애니메이션 미리보기 2" width="288">
 </p>
 
 위 GIF는 배포용 패키지와 함께 준비한 애니메이션 미리보기입니다. 실제 Codex에서의 재생 속도와 동작 전환은 앱 상태에 따라 달라질 수 있습니다.
@@ -24,7 +24,7 @@ Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡�
 <details>
 <summary>전체 애니메이션 프레임 보기</summary>
 
-![상태별 에이메스 큐브 프레임](docs/contact-sheet.png)
+![상태별 에이메스 새알심 프레임](docs/contact-sheet.png)
 
 </details>
 
@@ -40,7 +40,7 @@ cd aemeath-cube-codex-pet
 
 기본 설치 위치는 `~/.codex/pets/aemeath-cube/`입니다. `CODEX_HOME`을 설정했다면 해당 경로의 `pets/aemeath-cube/`에 설치합니다. 같은 이름의 폴더가 이미 있으면 덮어쓰지 않고 종료합니다.
 
-설치 후 Codex의 **Settings → Pets**에서 목록을 새로고침하고 **에이메스 큐브**을 선택하세요. 목록에 보이지 않으면 앱을 다시 실행해 주세요. 펫 표시 기능은 `/pet` 또는 **Show pet**으로 켤 수 있습니다. 메뉴는 앱 버전에 따라 다를 수 있으며, 일반적인 사용 방법은 [OpenAI 공식 Pets 안내](https://learn.chatgpt.com/docs/pets)를 참고하세요.
+설치 후 Codex의 **Settings → Pets**에서 목록을 새로고침하고 **에이메스 새알심**을 선택하세요. 목록에 보이지 않으면 앱을 다시 실행해 주세요. 펫 표시 기능은 `/pet` 또는 **Show pet**으로 켤 수 있습니다. 메뉴는 앱 버전에 따라 다를 수 있으며, 일반적인 사용 방법은 [OpenAI 공식 Pets 안내](https://learn.chatgpt.com/docs/pets)를 참고하세요.
 
 ### 직접 설치하기
 
