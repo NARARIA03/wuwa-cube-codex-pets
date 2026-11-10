@@ -11,6 +11,7 @@ Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡�
 | **에이메스** | <img src="docs/aemeath-cube/idle.webp" alt="에이메스 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/aemeath-cube/running.webp" alt="에이메스 새알심 손 동작" width="192" height="208"> |
 | **치사** | <img src="docs/chisa-cube/idle.webp" alt="치사 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/chisa-cube/running.webp" alt="치사 새알심 손 동작" width="192" height="208"> |
 | **페비** | <img src="docs/phoebe-cube/idle.webp" alt="페비 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/phoebe-cube/running.webp" alt="페비 새알심 손 동작" width="192" height="208"> |
+| **파수인** | <img src="docs/shorekeeper-cube/idle.webp" alt="파수인 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/shorekeeper-cube/running.webp" alt="파수인 새알심 손 동작" width="192" height="208"> |
 
 원본의 눈·손 동작을 9개 상태에 배치했습니다. `running`이나 `jumping` 상태에서도 이 동작을 사용하며, 별도의 달리기·점프 포즈나 시선 추적 프레임은 포함하지 않습니다.
 
@@ -32,6 +33,7 @@ cd wuwa-cube-codex-pets
 ./install.sh aemeath-cube
 ./install.sh chisa-cube
 ./install.sh phoebe-cube
+./install.sh shorekeeper-cube
 ./install.sh --all
 ./install.sh --list
 ```
@@ -41,6 +43,7 @@ cd wuwa-cube-codex-pets
 | `aemeath-cube` | 에이메스 새알심 |
 | `chisa-cube` | 치사 새알심 |
 | `phoebe-cube` | 페비 새알심 |
+| `shorekeeper-cube` | 파수인 새알심 |
 
 기본 설치 위치는 `~/.codex/pets/<펫 ID>/`입니다. `CODEX_HOME`을 설정했다면 해당 경로의 `pets/<펫 ID>/`에 설치합니다.
 
@@ -58,7 +61,10 @@ cd wuwa-cube-codex-pets
 ├── chisa-cube/
 │   ├── pet.json
 │   └── spritesheet.png
-└── phoebe-cube/
+├── phoebe-cube/
+│   ├── pet.json
+│   └── spritesheet.png
+└── shorekeeper-cube/
     ├── pet.json
     └── spritesheet.png
 ```
