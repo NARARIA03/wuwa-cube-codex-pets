@@ -1,6 +1,6 @@
 # Wuwa Cube Codex Pets
 
-Wuwa Tappo의 **새알심(Cube)** 캐릭터를 Codex에서 사용할 수 있도록 정리한 비공식 커스텀 펫 모음입니다. 현재 **에이메스**(Aemeath)와 **치사**(Chisa)를 지원합니다.
+Wuwa Tappo의 **새알심(Cube)** 캐릭터를 Codex에서 사용할 수 있도록 정리한 비공식 커스텀 펫 모음입니다.
 
 Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡임과 손 동작을 Codex 펫 형식으로 구성했습니다.
 
@@ -8,8 +8,8 @@ Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡�
 
 | 새알심 | 눈 깜빡임 | 손 동작 |
 | --- | --- | --- |
-| **에이메스**<br>Aemeath Cube | <img src="docs/aemeath-cube/idle.webp" alt="에이메스 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/aemeath-cube/running.webp" alt="에이메스 새알심 손 동작" width="192" height="208"> |
-| **치사**<br>Chisa Cube | <img src="docs/chisa-cube/idle.webp" alt="치사 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/chisa-cube/running.webp" alt="치사 새알심 손 동작" width="192" height="208"> |
+| **에이메스** | <img src="docs/aemeath-cube/idle.webp" alt="에이메스 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/aemeath-cube/running.webp" alt="에이메스 새알심 손 동작" width="192" height="208"> |
+| **치사** | <img src="docs/chisa-cube/idle.webp" alt="치사 새알심 눈 깜빡임" width="192" height="208"> | <img src="docs/chisa-cube/running.webp" alt="치사 새알심 손 동작" width="192" height="208"> |
 
 원본의 눈·손 동작을 9개 상태에 배치했습니다. `running`이나 `jumping` 상태에서도 이 동작을 사용하며, 별도의 달리기·점프 포즈나 시선 추적 프레임은 포함하지 않습니다.
 
@@ -89,4 +89,3 @@ cd wuwa-cube-codex-pets
 - 원작사: [Kuro Games 공식 사이트](https://www.kurogames.com/)
 - 원작 게임: [명조: 워더링 웨이브 공식 사이트](https://wutheringwaves.kurogames.com/kr/)
 - 에셋 출처: [Wuwa Tappo 공식 사이트](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)
-- README 구성과 권리 고지 참고: [hyeonbungi/aemeath-codex-pet](https://github.com/hyeonbungi/aemeath-codex-pet), [참고 LICENSE](https://github.com/hyeonbungi/aemeath-codex-pet/blob/main/LICENSE.md)
