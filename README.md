@@ -1,6 +1,6 @@
 # Wuwa Cube Codex Pets
 
-Wuwa Tappo의 **새알심(Cube)** 캐릭터를 Codex에서 사용할 수 있도록 정리한 비공식 커스텀 펫 모음입니다. 현재 **에이메스(Aemeath)**와 **치사(Chisa)**를 지원합니다.
+Wuwa Tappo의 **새알심(Cube)** 캐릭터를 Codex에서 사용할 수 있도록 정리한 비공식 커스텀 펫 모음입니다. 현재 **에이메스**(Aemeath)와 **치사**(Chisa)를 지원합니다.
 
 Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡임과 손 동작을 Codex 펫 형식으로 구성했습니다.
 
@@ -76,12 +76,13 @@ cd wuwa-cube-codex-pets
 
 ## Source & Rights
 
+이 패키지는 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)의 캐릭터 에셋을 Codex Dots로 언팩하고, 원본 눈·손 동작을 Codex 펫 형식에 맞게 배치했습니다.
 
-이 패키지는 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)의 에이메스·치사 에셋을 Codex Dots로 언팩하고, 원본 눈·손 동작을 Codex 펫 형식에 맞게 배치했습니다.
+**이 저장소에 사용된 모든 원본 에셋은 [명조: 워더링 웨이브(Wuthering Waves)](https://wutheringwaves.kurogames.com/kr/) 및 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)에서 유래하며, 저작권과 모든 지적 재산권은 [Kuro Games](https://www.kurogames.com/) 등 각 원 권리자에게 귀속됩니다.**
 
-**[명조: 워더링 웨이브(Wuthering Waves)](https://wutheringwaves.kurogames.com/kr/), 에이메스·치사 및 이 패키지에 사용된 원본 캐릭터 디자인·이미지 에셋의 저작권과 모든 지적 재산권은 [Kuro Games](https://www.kurogames.com/)에 귀속됩니다.**
+개인 환경에서 즐기기 위한 비공식 팬 프로젝트이며, 원 권리자의 공식 배포·승인·후원을 받은 프로젝트가 아닙니다. 원작 에셋의 이용 권한을 보증하거나 부여하지 않으며, 이용자는 관련 권리와 이용 조건을 확인한 뒤 자신의 책임하에 사용해야 합니다.
 
-개인 Codex 환경을 위한 비공식 팬 패키지입니다. 원작 에셋의 이용에는 원 권리자의 약관과 권리가 적용되며, 자세한 내용은 [LICENSE.md](LICENSE.md)를 참고해 주세요.
+이 패키지는 어떠한 보증 없이 제공되며, 이용으로 발생하는 손해에 대한 제작자의 책임은 적용 법률이 허용하는 범위에서 제한됩니다. 자세한 내용은 [LICENSE.md](LICENSE.md)를 참고해 주세요.
 
 ## Credits
 
