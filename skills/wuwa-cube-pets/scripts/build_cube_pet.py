@@ -86,7 +86,8 @@ def main():
     poses = {}
     for head in range(2):
         for body in range(3):
-            composed = Image.alpha_composite(bodies[body], heads[head])
+            # Tappo paints the body/hand layer over the face.
+            composed = Image.alpha_composite(heads[head], bodies[body])
             scaled = composed.resize((192, 192), Image.Resampling.LANCZOS)
             frame = Image.new("RGBA", CELL)
             frame.alpha_composite(scaled, (0, 8))
