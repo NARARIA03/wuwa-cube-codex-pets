@@ -2,7 +2,7 @@
 
 **명조: 워더링 웨이브(Wuthering Waves), 에이메스(Aemeath) 및 이 패키지에 사용된 원본 캐릭터 디자인·이미지 에셋의 저작권과 모든 지적 재산권은 [Kuro Games](https://www.kurogames.com/)에 귀속됩니다.**
 
-스프라이트 시트, 디자인 이미지, GIF 및 프레임 미리보기는 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)의 에이메스 에셋을 바탕으로 합니다. Codex Dots로 에셋을 언팩하고 원본 눈·손 동작을 Codex 펫 형식에 맞게 배치했습니다.
+스프라이트 시트, 디자인 이미지, 애니메이션 및 프레임 미리보기는 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)의 에이메스 에셋을 바탕으로 합니다. Codex Dots로 에셋을 언팩하고 원본 눈·손 동작을 Codex 펫 형식에 맞게 배치했습니다.
 
 이 저장소는 개인 Codex 환경을 위한 비공식 팬 패키지이며, 원작사의 공식 배포물이 아닙니다. Wuwa Tappo에 포함된 제3자 요소의 권리는 각 원 권리자에게 있습니다.
 

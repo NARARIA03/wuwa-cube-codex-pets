@@ -13,11 +13,11 @@ Codex Dots를 활용해 Wuwa Tappo의 에셋을 언팩하고, 원본 눈 깜빡�
 ## Preview
 
 <p align="center">
-  <img src="docs/aemeath-preview-1.gif" alt="에이메스 새알심 애니메이션 미리보기 1" width="288">
-  <img src="docs/aemeath-preview-2.gif" alt="에이메스 새알심 애니메이션 미리보기 2" width="288">
+  <img src="docs/aemeath-preview-1.webp" alt="에이메스 새알심 애니메이션 미리보기 1" width="288">
+  <img src="docs/aemeath-preview-2.webp" alt="에이메스 새알심 애니메이션 미리보기 2" width="288">
 </p>
 
-위 GIF는 배포용 패키지와 함께 준비한 애니메이션 미리보기입니다. 실제 Codex에서의 재생 속도와 동작 전환은 앱 상태에 따라 달라질 수 있습니다.
+위 애니메이션은 원본 PNG 프레임의 부드러운 반투명 가장자리를 보존한 무손실 WebP 미리보기입니다. 실제 Codex에서의 재생 속도와 동작 전환은 앱 상태에 따라 달라질 수 있습니다.
 
 원본의 눈·손 동작을 9개 상태에 배치했습니다. `running`이나 `jumping` 상태에서도 이 동작을 사용하며, 별도의 달리기·점프 포즈나 시선 추적 프레임은 포함하지 않습니다.
 
@@ -61,7 +61,7 @@ cd aemeath-cube-codex-pet
 | `pet/pet.json` | 펫 이름과 스프라이트 경로를 담은 매니페스트 |
 | `pet/spritesheet.png` | Codex용 투명 배경 스프라이트 시트 |
 | `docs/design.png` | 캐릭터 디자인 미리보기 |
-| `docs/aemeath-preview-1.gif`, `docs/aemeath-preview-2.gif` | 애니메이션 미리보기 |
+| `docs/aemeath-preview-1.webp`, `docs/aemeath-preview-2.webp` | 애니메이션 미리보기 |
 | `docs/contact-sheet.png` | 상태별 전체 프레임 미리보기 |
 | `install.sh` | 로컬 설치 스크립트 |
 | `LICENSE.md` | 원작 및 에셋 권리 고지와 이용 안내 |
