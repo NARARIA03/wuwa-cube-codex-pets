@@ -64,23 +64,21 @@ cd aemeath-cube-codex-pet
 | `docs/aemeath-preview-1.gif`, `docs/aemeath-preview-2.gif` | 애니메이션 미리보기 |
 | `docs/contact-sheet.png` | 상태별 전체 프레임 미리보기 |
 | `install.sh` | 로컬 설치 스크립트 |
-| `LICENSE.md` | 직접 작성한 부분의 이용 조건과 원작 에셋 권리 고지 |
+| `LICENSE.md` | 원작 및 에셋 권리 고지와 이용 안내 |
 
 스프라이트는 기존 패키지의 **v1 형식**을 유지합니다: PNG RGBA, `1536 × 1872`, 8열 × 9행, 프레임당 `192 × 208`.
 
 ## Source & Rights
 
-에셋 출처는 **Wuwa Tappo**이며, **Codex Dots를 활용해 언팩한 에이메스 에셋**을 사용했습니다. 원본 이미지의 눈·손 동작을 조합해 Codex에 맞게 배치한 패키지입니다.
+이 패키지는 [Wuwa Tappo](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)의 에이메스 에셋을 Codex Dots로 언팩하고, 원본 눈·손 동작을 Codex 펫 형식에 맞게 배치했습니다.
 
-**명조: 워더링 웨이브(Wuthering Waves), Wuwa Tappo, 에이메스 및 관련 원본 캐릭터 디자인·이미지 에셋에 대한 저작권과 모든 지적 재산권은 Kuro Games에 귀속됩니다.** 이 저장소의 제작자는 해당 원본 에셋에 대한 소유권을 주장하지 않습니다.
+**[명조: 워더링 웨이브(Wuthering Waves)](https://wutheringwaves.kurogames.com/kr/), 에이메스 및 이 패키지에 사용된 원본 캐릭터 디자인·이미지 에셋의 저작권과 모든 지적 재산권은 [Kuro Games](https://www.kurogames.com/)에 귀속됩니다.**
 
-이 프로젝트는 개인 Codex 환경에서 사용하기 위해 만든 비공식 팬 제작물이며, Kuro Games 또는 OpenAI의 공식 배포·승인·후원을 받은 프로젝트가 아닙니다. Codex 및 OpenAI 관련 상표의 권리는 해당 권리자에게 있습니다.
-
-직접 작성한 설치 스크립트와 문서 등의 독자적인 부분은 개인·비상업적 목적으로 사용, 수정, 공유할 수 있습니다. **이 허용은 원작 이미지 에셋에는 적용되지 않으며, 출처 표기나 비상업적 목적만으로 원작 에셋의 이용·재배포 허가를 대신하지 않습니다.** 상세 범위는 [LICENSE.md](LICENSE.md)를 확인해 주세요.
+개인 Codex 환경을 위한 비공식 팬 패키지입니다. 원작 에셋의 이용에는 원 권리자의 약관과 권리가 적용되며, 자세한 내용은 [LICENSE.md](LICENSE.md)를 참고해 주세요.
 
 ## Credits
 
-- 원작 및 에셋: **Kuro Games — Wuthering Waves / Wuwa Tappo**
-- 언팩 및 Codex 펫 구성: **Codex Dots**를 활용해 제작
-- 패키지 정리 및 공유: [@NARARIA03](https://github.com/NARARIA03)
+- 원작사: [Kuro Games 공식 사이트](https://www.kurogames.com/)
+- 원작 게임: [명조: 워더링 웨이브 공식 사이트](https://wutheringwaves.kurogames.com/kr/)
+- 에셋 출처: [Wuwa Tappo 공식 사이트](https://download-wutheringwaves-wuwatappo.kurogames-global.com/download/kr/)
 - README 구성과 권리 고지 참고: [hyeonbungi/aemeath-codex-pet](https://github.com/hyeonbungi/aemeath-codex-pet), [참고 LICENSE](https://github.com/hyeonbungi/aemeath-codex-pet/blob/main/LICENSE.md)
